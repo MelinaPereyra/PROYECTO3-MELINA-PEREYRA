@@ -1,0 +1,26 @@
+.cotizar {
+  margin-top: 2rem;
+}
+
+.label {
+  margin-bottom: 2000px;
+  @media screen and (max-width: 768px) {
+    width: 2000px;
+  }
+}
+
+.buttonBack {
+  margin-left: 300px;
+}
+.page .main {
+  @media screen and (max-width: 768px) {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+.titulo {
+  @media screen and (max-width: 768px) {
+    font-size: 5px;
+  }
+}
